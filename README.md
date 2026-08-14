@@ -3,11 +3,6 @@
 
 A real-time fraud detection platform built with Apache Kafka, Spark Structured Streaming, Random Forest machine learning, Delta Lake, and hybrid rule-based fraud scoring.
 
-
-## Author
-**Mahmoud Najmeh**  
-<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;">
-
 ------------------------------------------------------------------------
 
 
